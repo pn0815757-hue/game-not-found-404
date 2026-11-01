@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 55fa3654678cf114c8356dda59cdc809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 326595668090737659
+    second: BoxClosed_0
+  - first:
+      213: -5288065909951329583
+    second: BoxClosed_1
+  - first:
+      213: -8757723821442625868
+    second: BoxClosed_2
+  - first:
+      213: -8251244812799099656
+    second: BoxClosed_3
+  - first:
+      213: 3069930814339679892
+    second: BoxClosed_4
+  - first:
+      213: -7088901328529157680
+    second: BoxClosed_5
+  - first:
+      213: -8716620491079728063
+    second: BoxClosed_6
+  - first:
+      213: -1264595900458162337
+    second: BoxClosed_7
+  - first:
+      213: 5679676252728309718
+    second: BoxClosed_8
+  - first:
+      213: 4078886968848388603
+    second: BoxClosed_9
+  - first:
+      213: -5596671047131076019
+    second: BoxClosed_10
+  - first:
+      213: 4194513984693666585
+    second: BoxClosed_11
+  - first:
+      213: -7231618817807360123
+    second: BoxClosed_12
+  - first:
+      213: 7095625267642387545
+    second: BoxClosed_13
+  - first:
+      213: 2084990662480263954
+    second: BoxClosed_14
+  - first:
+      213: -9087334846730365039
+    second: BoxClosed_15
+  - first:
+      213: -629923407373881510
+    second: BoxClosed_16
+  - first:
+      213: 3930377888473163433
+    second: BoxClosed_17
+  - first:
+      213: 2078655617140563276
+    second: BoxClosed_18
+  - first:
+      213: -1714948223316560340
+    second: BoxClosed_19
+  - first:
+      213: -894565971500091359
+    second: BoxClosed_20
+  - first:
+      213: -5953186131120061798
+    second: BoxClosed_21
+  - first:
+      213: 8091846998507800609
+    second: BoxClosed_22
+  - first:
+      213: -4115780536401278757
+    second: BoxClosed_23
+  - first:
+      213: -8843811766746247813
+    second: BoxClosed_24
+  - first:
+      213: 8525914332660138257
+    second: BoxClosed_25
+  - first:
+      213: -7105537197615944646
+    second: BoxClosed_26
+  - first:
+      213: 733147541992099976
+    second: BoxClosed_27
+  - first:
+      213: -1697501374223899524
+    second: BoxClosed_28
+  - first:
+      213: 239579286100920068
+    second: BoxClosed_29
+  - first:
+      213: -358081137767913239
+    second: BoxClosed_30
+  - first:
+      213: 6893115437637276409
+    second: BoxClosed_31
+  - first:
+      213: -6629565506249013789
+    second: BoxClosed_32
+  - first:
+      213: 8671130927587684911
+    second: BoxClosed_33
+  - first:
+      213: 221673064576997270
+    second: BoxClosed_34
+  - first:
+      213: -4196194566353395269
+    second: BoxClosed_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoxClosed_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 620
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3dabd970d488400800000000000000
+      internalID: 326595668090737659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 669
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da8f7082140d96b0800000000000000
+      internalID: -5288065909951329583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 618
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be8fe5b590567680800000000000000
+      internalID: -8757723821442625868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 650
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc335a4f80bd7d80800000000000000
+      internalID: -8251244812799099656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 616
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4960eb97fc59a9a20800000000000000
+      internalID: 3069930814339679892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 572
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19931ecc92f9d90800000000000000
+      internalID: -7088901328529157680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 602
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1444d4398d7580780800000000000000
+      internalID: -8716620491079728063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 648
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a6c88ab0437ee0800000000000000
+      internalID: -1264595900458162337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 604
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b71ba57342de40800000000000000
+      internalID: 5679676252728309718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 666
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf19d29561e1b9830800000000000000
+      internalID: 4078886968848388603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_10
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 648
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae907c551a452b0800000000000000
+      internalID: -5596671047131076019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 654
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913031fde38e53a30800000000000000
+      internalID: 4194513984693666585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 530
+        width: 29
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fdf8dfff024ab90800000000000000
+      internalID: -7231618817807360123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 649
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c4c113699b87260800000000000000
+      internalID: 7095625267642387545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 647
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7425f5ff5fec10800000000000000
+      internalID: 2084990662480263954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 630
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1979b998a1d43e180800000000000000
+      internalID: -9087334846730365039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 657
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa6cb9fff0247f0800000000000000
+      internalID: -629923407373881510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 650
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a62e739dd18b8630800000000000000
+      internalID: 3930377888473163433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_18
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 650
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9806454ed8dc10800000000000000
+      internalID: 2078655617140563276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_19
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 582
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2677055da74338e0800000000000000
+      internalID: -1714948223316560340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_20
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 650
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b5901dfcd593f0800000000000000
+      internalID: -894565971500091359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 578
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928ecc41c8026da0800000000000000
+      internalID: -5953186131120061798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 588
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1284ed209f30c4070800000000000000
+      internalID: 8091846998507800609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 636
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c552986fc1e6c0800000000000000
+      internalID: -4115780536401278757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 594
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d8baefd08744580800000000000000
+      internalID: -8843811766746247813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 618
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1118e9fc9e1225670800000000000000
+      internalID: 8525914332660138257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 578
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce6c5c09f046d90800000000000000
+      internalID: -7105537197615944646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 634
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d3681ec9ac2a00800000000000000
+      internalID: 733147541992099976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 621
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a5af6e734178e0800000000000000
+      internalID: -1697501374223899524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 614
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40746936718235300800000000000000
+      internalID: 239579286100920068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 616
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e863963a17d70bf0800000000000000
+      internalID: -358081137767913239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_31
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2912028f349af50800000000000000
+      internalID: 6893115437637276409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_32
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 572
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e548d80c4d0ff3a0800000000000000
+      internalID: -6629565506249013789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 208
+        width: 48
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2274c313ab065870800000000000000
+      internalID: 8671130927587684911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 23
+        width: 968
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697526e4a7a831300800000000000000
+      internalID: 221673064576997270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxClosed_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e418364f14c5c0800000000000000
+      internalID: -4196194566353395269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoxClosed_0: 326595668090737659
+      BoxClosed_1: -5288065909951329583
+      BoxClosed_10: -5596671047131076019
+      BoxClosed_11: 4194513984693666585
+      BoxClosed_12: -7231618817807360123
+      BoxClosed_13: 7095625267642387545
+      BoxClosed_14: 2084990662480263954
+      BoxClosed_15: -9087334846730365039
+      BoxClosed_16: -629923407373881510
+      BoxClosed_17: 3930377888473163433
+      BoxClosed_18: 2078655617140563276
+      BoxClosed_19: -1714948223316560340
+      BoxClosed_2: -8757723821442625868
+      BoxClosed_20: -894565971500091359
+      BoxClosed_21: -5953186131120061798
+      BoxClosed_22: 8091846998507800609
+      BoxClosed_23: -4115780536401278757
+      BoxClosed_24: -8843811766746247813
+      BoxClosed_25: 8525914332660138257
+      BoxClosed_26: -7105537197615944646
+      BoxClosed_27: 733147541992099976
+      BoxClosed_28: -1697501374223899524
+      BoxClosed_29: 239579286100920068
+      BoxClosed_3: -8251244812799099656
+      BoxClosed_30: -358081137767913239
+      BoxClosed_31: 6893115437637276409
+      BoxClosed_32: -6629565506249013789
+      BoxClosed_33: 8671130927587684911
+      BoxClosed_34: 221673064576997270
+      BoxClosed_35: -4196194566353395269
+      BoxClosed_4: 3069930814339679892
+      BoxClosed_5: -7088901328529157680
+      BoxClosed_6: -8716620491079728063
+      BoxClosed_7: -1264595900458162337
+      BoxClosed_8: 5679676252728309718
+      BoxClosed_9: 4078886968848388603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
